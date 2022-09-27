@@ -4,6 +4,7 @@
 
 <template>
 <Navbar/>
+<div>
 <div class="slider-block">
   <div class="slide1">
       <img class="slide2" src="../assets/img/background2.png">
@@ -28,7 +29,23 @@
 </defs>
 </svg>
 </div>
+   </div>
   </div>
-  </div>
+ </div>
+ <div class="dialog-block">
+<p style="font-weight: 700;" class="dialog-block-text">
+    Кем вы хотите стать?</p>
+    <p class="dialog-block-text">
+Пора найти себя 
+и выбрать подходящий курс :)</p>
+<p class="dialog-block-text">
+Удачи!
+</p>
+  
+ </div>
+ <div class="sava">
+</div>
+
+
 </div>
 </template>
