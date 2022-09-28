@@ -61,8 +61,8 @@
 }
 .sava{
     position: relative;
-    left: 340px;
-    top: 38px;
+    left: 72px;
+    top: 268px;
     background-image: url(../img/sava.png);
     width: 168px;
     height: 188px;
@@ -75,4 +75,35 @@
     margin-top: 20px;
     margin-left: 20px;
     width: 170px;
+}
+.block1{
+display: flex;
+}
+.children{
+    position: relative;
+    left: 248px;
+    top: 103px;
+    background-image: url(../img/children.png);
+    background-repeat: no-repeat;
+    width: 50.08px;
+    height: 50.08px;
+}
+.border{
+    position: relative;
+    border-bottom:1px #E0E0E0 solid ;
+    color: #E0E0E0;
+    width: 880px;
+    height: 3px;
+    top: 163px;
+    left: 181px;
+}
+.border2{
+    position: absolute;
+    border-bottom: 4px solid;
+    border-image-source: linear-gradient(90deg, #F7941D 0%, #27AAE1 100%);
+    border-image-slice: 1;
+    width: 160px;
+    height: 5px;
+    margin-top: 157px;
+    left: 661px;
 }

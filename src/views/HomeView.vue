@@ -48,6 +48,7 @@
    </div>
   </div>
  </div>
+ <div class="block1">
  <div class="dialog-block">
 <p style="font-weight: 700;" class="dialog-block-text">
     Кем вы хотите стать?</p>
@@ -57,11 +58,15 @@
 <p class="dialog-block-text">
 Удачи!
 </p>
-  
+
  </div>
  <div class="sava">
 </div>
+<div class="children">
+</div>
+<div class="border"></div>
+<div class="border2"></div>
 
-
+ </div>
 </div>
 </template>
