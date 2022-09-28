@@ -1,36 +1,4 @@
-#flex{
-    display: flex;
-}
-.name-logo{
-    line-height: 14px;
-    text-transform: uppercase;
-    margin-top: 5px;
-    font-weight: 700;
-    color: #000000;
-    margin-left: 4px;
-}
-.dialog-block{
-    position: relative;
-    background-image: url(../img/dialog-block.png);
-    width: 262px;
-    height: 220px;
-    top: 100px;
-    left: 370px;
-}
-.sava{
-    position: relative;
-    left: 340px;
-    top: 50px;
-    background-image: url(../img/sava.png);
-    width: 168px;
-    height: 188px;
-}
-.dialog-block-text{
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 19.5px;
-    color: #000000;
-    margin-top: 20px;
-    margin-left: 20px;
-    width: 170px;
+.logo_blue{
+    margin-top: -30px;
+    margin-right: 70px;
 }
