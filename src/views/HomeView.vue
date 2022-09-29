@@ -62,11 +62,12 @@
  </div>
  <div class="sava">
 </div>
+<div class="inblock">
 <div class="children">
 </div>
 <div class="border"></div>
 <div class="border2"></div>
-
+</div>
  </div>
 </div>
 </template>
