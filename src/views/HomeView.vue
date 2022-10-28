@@ -64,9 +64,82 @@
 </div>
 <div class="inblock">
 <div class="children">
+  <div class="txt">
+  <h1 style="font-size:16px; font-weight:700">Дети</h1>
+  <p style="font-size:12px; font-weight:400">8 — 14 лет</p>
+  </div>
 </div>
 <div class="border"></div>
+<div class="teenagers">
+  <div class="txt">
+  <h1 style="font-size:16px; font-weight:700">Подростки</h1>
+  <p style="font-size:12px; font-weight:400">14 — 18 лет</p>
+  </div>
+</div>
+<div class="family">
+  <div class="txt">
+  <h1 style="font-size:16px; font-weight:700">Взрослые</h1>
+  <p style="font-size:12px; font-weight:400">18 — ∞ </p>
+  </div>
+</div>
 <div class="border2"></div>
+</div>
+<div class="btn-block1">
+  <div class="button">
+<router-link to=""  class="btn">
+  Робототехника
+</router-link>
+<div class="btn-shadow">
+ </div>
+</div>
+<div class="button">
+<router-link to=""  class="btn">
+  Создание игр
+</router-link>
+<div class="btn-shadow">
+ </div>
+</div>
+<div class="button">
+<router-link to=""  class="btn">
+  Web-разработка
+</router-link>
+<div class="btn-shadow">
+ </div>
+</div>
+<div class="button">
+<router-link to=""  class="btn">
+  Мультимедиа
+</router-link>
+<div class="btn-shadow">
+ </div>
+</div>
+<div class="button">
+<router-link to=""  class="btn">
+  Шахматы
+</router-link>
+<div class="btn-shadow">
+ </div>
+</div>
+</div>
+<div class="btn-block2">
+<router-link to=""  class="btn">
+  3D-моделирование и дизайн
+</router-link>
+<div class="btn-shadow">
+</div>
+<router-link to=""  class="btn">
+  Английский язык
+</router-link>
+<div class="btn-shadow">
+</div>
+<router-link to=""  class="btn">
+  Блогинг
+</router-link>
+<div class="btn-shadow">
+</div>
+<router-link to=""  class="btn">
+  Soft skills
+</router-link>
 </div>
  </div>
 </div>
