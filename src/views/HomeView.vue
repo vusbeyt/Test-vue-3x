@@ -142,5 +142,32 @@
 </router-link>
 </div>
  </div>
+ <div class="block2">
+<div class="plus">
+  <img src="../assets/vectors/Vector_plus.png">
+</div>
+<div class="vector4">
+  <img src="../assets/vectors/Vector4.png">
+</div>
+<div class="vector5">
+  <img src="../assets/vectors/Vector5.png">
+</div>
+<div class="vector_triangle2">
+  <img src="../assets/vectors/Vector_triangle2.png">
+</div>
+<div class="video-player">
+   <div class="player">
+    <div class="player-opacity"></div>
+    <img src="../assets/vectors/videoplayer.png">
+    <div class="play-ellipse"><img src="../assets/vectors/ellipse.png"></div>
+    <div class="play"><img src="../assets/vectors/play.png"></div>
+   </div>
+   <div class="txt-player-block">
+    <p>Актуальные знания от признанных экспертов рынка <br/>
+      для новичков и практикующих специалистов.</p>
+   </div>
+   
+</div>
+ </div>
 </div>
 </template>
