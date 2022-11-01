@@ -166,7 +166,11 @@
     <p>Актуальные знания от признанных экспертов рынка <br/>
       для новичков и практикующих специалистов.</p>
    </div>
-   
+   <div class="txt-player-block2">
+    <p class="gradient-text" style="width: 170px;">600</p>
+    <p class="gradient-text" style="width: 110px;">82</p>
+    <p class="gradient-text" style="width:325px;">14 795</p>
+   </div>
 </div>
  </div>
 </div>

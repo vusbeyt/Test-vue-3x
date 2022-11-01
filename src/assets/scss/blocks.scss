@@ -187,3 +187,24 @@ a{
     margin-left: 370px;
     width: 625px;
 }
+.txt-player-block2{
+    position: absolute;
+    font-weight: 700;
+    font-size: 86px;
+    line-height: 104px;
+    margin-top: 915px;
+    margin-left: 370px;
+    letter-spacing: 0.095em;
+    width: auto;
+    display: flex;
+}
+.gradient-text{
+    color: white;
+    background: linear-gradient(to right, #F7941D,#27AAE1);
+    -webkit-background-clip: text;
+    -webkit-text-stroke: 0.1em transparent ;
+    margin-right: 155px;
+}
+
+
+
