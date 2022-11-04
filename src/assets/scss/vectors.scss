@@ -62,9 +62,9 @@
     position: absolute;
   }
   .player{
-    position: absolute;
-    top: 310px;
-    left: 576px;
+    position: relative;
+    margin-top: 315px;
+    margin-left: 576px;
   }
   .player-opacity{
     position: absolute;

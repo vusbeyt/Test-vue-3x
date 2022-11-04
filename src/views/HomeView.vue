@@ -171,6 +171,11 @@
     <p class="gradient-text" style="width: 110px;">82</p>
     <p class="gradient-text" style="width:325px;">14 795</p>
    </div>
+   <div class="txt-player-block3">
+   <p style="margin-right: 260px;">Курсов</p>
+   <p style="margin-right: 125px;">Ведущих<br/> преподавателей</p>
+   <p>Выпускников</p>
+  </div>
 </div>
  </div>
 </div>
